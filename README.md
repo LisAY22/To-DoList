@@ -1,11 +1,14 @@
 # To-Do List
-This is a full-stack, simulated to-do list created to learn and demonstrate various web technologies. It includes a backend and a separate frontend application.
+This is a full-stack, simulated to-do list created to learn and demonstrate various web technologies. It consists of a Django REST API backend and a separate React frontend.
 
 ## Built with
 - React
 - Bootstrap
 - Vite
+- JavaScript
 - Django
+- Django Rest Framework
+- Django Filter
 - CORDS
 
 ## Getting Started

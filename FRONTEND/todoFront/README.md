@@ -1,23 +1,22 @@
 # To-Do List Frontend
-This project is a frontend user interface for the "To-Do List" project.
-It connects to its own API to fetch tasks data, create them or update them. 
+This is a React-based frontend for the "To-Do List" project. It provides a user interface to interact with the backend API.
 
 ## Features
 - View all tasks.
-- Filter tasks in real-time.
-- Add new tasks.
-- Update state of tasks. 
+- Filter tasks by status.
+- Create new tasks.
+- Update task status. 
 
 ## Technologies
 This project was built with:
 - Node.js: JavaScript runtime environment
 - React (Vite): A JavaScript library for building user interfaces.
 - Bootstrap: CSS framework for styling and layout.
+- JavaScript: Used for API calls and component logic.
 
 ## How to Get Started
 ### Prerequisites
 - Node.js 
-- The To-Do List Backend must be running on for this app to fetch data.
 
 ### Installation & Setup
 1. Clone the repository 
