@@ -22,7 +22,7 @@ This project was built with:
 1. Clone the repository 
 [https://github.com/LisAY22/To-DoList.git](https://github.com/LisAY22/To-DoList.git)
 2. Navigate to the API project directory 
-```cd TO-DOLIST/FRONTEND/todoFront```
+```cd To-DoList/FRONTEND/todoFront```
 3. Install all the required dependencies
 ```npm install```
 

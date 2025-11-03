@@ -19,7 +19,7 @@ This project was built with:
 1. Clone the repository 
 [https://github.com/LisAY22/To-DoList.git](https://github.com/LisAY22/To-DoList.git)
 2. Navigate to the API project directory 
-```cd TO-DOLIST/BACKEND```
+```cd To-DoList/BACKEND```
 3. Install the dependencies using pipenv 
 ```pipenv install```
 4. Activate the virtual environment
