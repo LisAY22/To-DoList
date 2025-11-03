@@ -8,3 +8,5 @@ class TodoItemViewSet(viewsets.ModelViewSet):
     # Tells the viewset what data to work with and how to serialize it
     queryset = TodoItem.objects.all()
     serializer_class = TodoItemSerializer
+
+    filterset_fields = ['completed', 'title']
